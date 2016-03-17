@@ -1,0 +1,7 @@
+
+=============for_break.c==========================
+cnt is 0
+cnt is 1
+cnt is 2
+final cnt is 2
+
