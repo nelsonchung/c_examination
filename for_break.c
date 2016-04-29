@@ -1,5 +1,5 @@
 /*
-* 用意：了解for與break;搭配的用法
+* 用意：了解for與break搭配的用法
 */
 #include <stdio.h>
 
