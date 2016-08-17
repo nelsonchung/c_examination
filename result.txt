@@ -1,4 +1,10 @@
 
+=============for_charint.c==========================
+ctmp is 53589793
+the length of ctmp is 8
+itmp is 0x53589793
+the length of itmp is 4
+
 =============for_break.c==========================
 cnt is 0
 cnt is 1
