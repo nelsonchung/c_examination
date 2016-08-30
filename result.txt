@@ -1,3 +1,11 @@
+=============chardata.c=============================
+
+印出第一個欄位資料
+NelsonDBG: (chardata.c)(main)(11) 0x30
+利用%13s的方式，直接指定長度，印出全部欄位資料
+NelsonDBG: (chardata.c)(main)(12) 0x010711000000Z
+利用%*s的技術，印出全部欄位資料
+NelsonDBG: (chardata.c)(main)(13) 0x010711000000Z
 
 =============for_charint.c==========================
 ctmp is 53589793
