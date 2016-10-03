@@ -1,3 +1,12 @@
+=============voidpointer.c=============================
+void指標轉型到bool的關係
+/* Result:
+ * val is 1
+ * tmp is 0xbf9e5c0b
+ * tmp is 0xbf9e5c0b
+ * tmp is 1
+ */
+
 =============chardata.c=============================
 
 印出第一個欄位資料
