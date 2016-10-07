@@ -1,3 +1,12 @@
+=============diff_strlen_sizeof.c=============================
+/*Result
+* strlen(str) is 11
+* sizeof(str) is 12
+* sizeof(char) is 1
+* sizeof(int) is 4
+* sizeof(five) is 4
+*/
+
 =============voidpointer.c=============================
 void指標轉型到bool的關係
 /* Result:
