@@ -1,3 +1,12 @@
+
+=============ifdef.c=============================
+#ifdef sample code. Define DEBUG_IFDEF
+#ifndef sample code. Not define DEBUG
+#if defined() sample code. Define DEBUG_IFDEF, or define DEBUG
+#if defined() sample code. Define DEBUG_IFDEF and DEBUG_ELIF
+#if sample code. define DBG_ONE 1
+#else sample code.
+
 =============diff_strlen_sizeof.c=============================
 /*Result
 * strlen(str) is 11
