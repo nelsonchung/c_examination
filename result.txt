@@ -7,6 +7,13 @@ len = 13, 0x010711000000Z
 利用%.10s的方式，直接指定長度，印出前十位數的資料
 0x0107110000
 
+=============charint.c=============================
+
+ctmp is 53589793
+the length of ctmp is 8
+itmp is 0x53589793
+the length of itmp is 4
+
 =============ifdef.c=============================
 #ifdef sample code. Define DEBUG_IFDEF
 #ifndef sample code. Not define DEBUG
