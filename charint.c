@@ -12,8 +12,10 @@ int main(int argc, char* argv[]){
         unsigned int  itmp    = 0x53589793;
 
         printf("ctmp is %s\n", ctmp);
-        printf("the length of ctmp is %d\n", sizeof(ctmp)/sizeof(char));
+        int len = sizeof(ctmp)/sizeof(char);
+        printf("the length of ctmp is %d\n", len);
         printf("itmp is 0x%x\n", itmp);
-        printf("the length of itmp is %d\n", sizeof(itmp));
+        len = sizeof(itmp);
+        printf("the length of itmp is %d\n", len);
 }
 
