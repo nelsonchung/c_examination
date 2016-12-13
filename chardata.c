@@ -1,3 +1,8 @@
+/*
+* 用意：了解unsigned char宣告與長度使用關係
+*/
+
+
 #include "stdio.h"
 #include "string.h"
 
