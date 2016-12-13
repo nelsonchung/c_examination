@@ -22,6 +22,12 @@ sizeof(char) is 1
 sizeof(int) is 4
 sizeof(five) is 4
 
+=============for_break.c==========================
+cnt is 0
+cnt is 1
+cnt is 2
+final cnt is 2
+
 =============ifdef.c=============================
 #ifdef sample code. Define DEBUG_IFDEF
 #ifndef sample code. Not define DEBUG
@@ -44,12 +50,6 @@ ctmp is 53589793
 the length of ctmp is 8
 itmp is 0x53589793
 the length of itmp is 4
-
-=============for_break.c==========================
-cnt is 0
-cnt is 1
-cnt is 2
-final cnt is 2
 
 =============if_elseif.c==========================
 i = 0 的時候
