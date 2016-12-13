@@ -1,6 +1,8 @@
 /*
- * 表達#ifdef vs #if defined()
- */
+* 用意：了解#ifdef vs #if defined()
+*/
+
+
 #include <stdio.h>
 #include <string.h>
 
