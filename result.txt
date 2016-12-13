@@ -14,6 +14,14 @@ the length of ctmp is 8
 itmp is 0x53589793
 the length of itmp is 4
 
+=============diff_strlen_sizeof.c=============================
+
+strlen(str) is 11
+sizeof(str) is 12
+sizeof(char) is 1
+sizeof(int) is 4
+sizeof(five) is 4
+
 =============ifdef.c=============================
 #ifdef sample code. Define DEBUG_IFDEF
 #ifndef sample code. Not define DEBUG
@@ -21,15 +29,6 @@ the length of itmp is 4
 #if defined() sample code. Define DEBUG_IFDEF and DEBUG_ELIF
 #if sample code. define DBG_ONE 1
 #else sample code.
-
-=============diff_strlen_sizeof.c=============================
-/*Result
-* strlen(str) is 11
-* sizeof(str) is 12
-* sizeof(char) is 1
-* sizeof(int) is 4
-* sizeof(five) is 4
-*/
 
 =============voidpointer.c=============================
 void指標轉型到bool的關係
