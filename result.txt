@@ -85,6 +85,10 @@ final cnt is 2
 (OptionG1)#if sample code. define DBG_ONE 1
 (OptionH2)#else sample code.
 
+=============if_elseif.c==========================
+i = 0 的時候
+只會執行第一個if，條件成立後就不會往後檢查了
+
 =============voidpointer.c=============================
 void指標轉型到bool的關係
 /* Result:
@@ -99,8 +103,4 @@ ctmp is 53589793
 the length of ctmp is 8
 itmp is 0x53589793
 the length of itmp is 4
-
-=============if_elseif.c==========================
-i = 0 的時候
-只會執行第一個if，條件成立後就不會往後檢查了
 

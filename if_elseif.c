@@ -20,5 +20,6 @@ int main(int argc, char* argv[]){
     else{
         printf("(%s)(%d): i = %d\n", __FUNCTION__, __LINE__, i);
     }
-    return;
+
+    return 0;
 }
