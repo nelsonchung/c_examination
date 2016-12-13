@@ -5,13 +5,6 @@
 #include <stdio.h>
 #include <string.h>
 
-/*Result
- * strlen(str) is 11
- * sizeof(str) is 12
- * sizeof(char) is 1
- * sizeof(int) is 4
- * sizeof(five) is 4
- */
 int main(int argc, char* argv[]){
     char str[] = "I am Nelson";
     int five = 5;
